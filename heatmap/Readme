@@ -1,0 +1,4 @@
+Steps:
+1) run patch_extraction.m
+2) run predict_mtf.py
+3) run generate_heatmap.m
